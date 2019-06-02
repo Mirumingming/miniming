@@ -1,0 +1,18 @@
+:root {
+  --color-0: #ffffff; /* box color */
+
+  --color-1: #e0cced;
+  --color-2: #d9b1f2;
+  --color-3: #974ac7;
+  --color-4: #9a34d9;
+  --color-5: #d9b1f2;
+
+  --logo-URL: url("https://upload.tgd.kr/20190602/4b60c3e15a24bfa16b051ad978f071fa.png");
+  --logo-Width: 158px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
+
+  --icon-URL: url("https://jayppo.github.io/CSS/source/icon.png");
+  --pre-comment: "삐약이 ";
+  --sub-comment: "마리♥";
+}
